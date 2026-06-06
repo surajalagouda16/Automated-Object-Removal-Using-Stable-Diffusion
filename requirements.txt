@@ -1,0 +1,9 @@
+diffusers
+transformers
+accelerate
+torch
+opencv-python
+pillow
+gradio
+rembg
+numpy
